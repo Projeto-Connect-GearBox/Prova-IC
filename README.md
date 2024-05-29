@@ -8,7 +8,7 @@ admin1
 
 # Instruções:
 
-## Baixar os dados do firebase, mostrar os dados e plotar um gráfico com os dados.
+## Baixe os dados diretamento do firebase, mostre-os em uma tabela e plote um gráfico.
 
 ### Utilize o arquivo key.json para se comunicar com o FireBase, utilize o usuário e senha caso necessário.
 ### O código deverá ser escrito em JavaScript, dando preferência para React.
