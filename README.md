@@ -13,4 +13,4 @@ admin1
 ### Utilize o arquivo key.json para se comunicar com o FireBase, utilize o usuário e senha caso necessário.
 ### O código deverá ser escrito em JavaScript, dando preferência para React.
 ### Utilize qualquer ferramenta que estiver disponível, queremos verificar apenas o resultado final.
-### O arquivo data.json é o arquivo que está no firebase.
+### O arquivo data.json é apenas um exemplo dos dados que estão no Firebase, você precisa mostrar no código como adquiriu os dados do firebase.
