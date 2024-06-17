@@ -14,3 +14,4 @@ admin1
 ### O código deverá ser escrito em JavaScript, dando preferência para React.
 ### Utilize qualquer ferramenta que estiver disponível, queremos verificar apenas o resultado final.
 ### O arquivo data.json é apenas um exemplo dos dados que estão no Firebase, você precisa mostrar no código como adquiriu os dados do firebase.
+### Faça um vídeo executando o código e mostrando os resultados obtidos.
