@@ -1,5 +1,5 @@
 # Prova-IC
-A prova deverá ser entregue até 07/06/2024
+A prova deverá ser entregue até 25/06/2024
 
 Usuário:
 admin@ita.br 
